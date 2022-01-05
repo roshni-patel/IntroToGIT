@@ -1,6 +1,6 @@
 # Introduction To GIT
 
-Welcome to this short introduction to GIT. The purpose of this exercise is to get familiar with GIT and by the end feel more comfortable with it.
+Welcome to this short introduction to GIT. The purpose of this exercise is to get familiar with GIT. When you finish this exercise, hopefully you feel more comfortable using GIT and github.
 
 ## Overview
 
