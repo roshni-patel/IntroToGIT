@@ -24,4 +24,10 @@ By the end of the exercise, you will have successfully done the following:
 7. Commit the change
 8. Push your branch to github
 
+## How to contribute
+
+If you have suggestions, ideas or feedback, you can edit README.md with FAQ and make a pull request.
+
 ## FAQ
+
+TODO
