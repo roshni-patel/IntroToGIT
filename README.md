@@ -20,11 +20,10 @@ By the end of the exercise, you will have successfully done the following:
 3. Start VSCode
 4. Select source control on the left menu
 5. Clone the repository with your URL
-6. Create a new branch
-7. Add a text file
-8. Edit the text file and save it
-9. Commit the change
-10. Push your branch to github
+6. Add a text file
+7. Edit the text file and save it
+8. Commit the change
+9. Push your branch to github
 
 ## How to contribute
 
