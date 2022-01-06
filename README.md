@@ -15,14 +15,16 @@ By the end of the exercise, you will have successfully done the following:
 
 ## Steps
 
-1. Start VSCode
-2. Select source control on the left menu
-3. Clone the repository
-4. Create a new branch
-5. Add a text file
-6. Edit the text file and save it
-7. Commit the change
-8. Push your branch to github
+1. Open a browser and go to https://github.com/giild/IntroToGIT/
+2. Fork the project and copy the URL
+3. Start VSCode
+4. Select source control on the left menu
+5. Clone the repository with your URL
+6. Create a new branch
+7. Add a text file
+8. Edit the text file and save it
+9. Commit the change
+10. Push your branch to github
 
 ## How to contribute
 
