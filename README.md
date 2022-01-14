@@ -13,6 +13,22 @@ By the end of the exercise, you will have successfully done the following:
 * Commit the change
 * Push the commit to Github
 
+## Windows vs MacOS
+
+If you are using Microsoft Windows, you will need to install GIT and configure it. Here's the steps for installing GIT on windows
+
+1. Open a browser and go to https://git-scm.com/download/win
+2. install GIT with the default settings
+3. Start VSCode
+4. At the top click Terminal menu and select New Terminal
+5. Type git and press enter. If it prints out a bunch of stuff, it means GIT installed correctly
+6. Run these two commands to configure GIT
+7. git config --global user.name "your github name"
+8. git config --global user.email "your email address"
+9. close vscode
+
+If you get an error, contact peter on slack and grab a screenshot of the error.
+
 ## Steps
 
 1. Open a browser and go to https://github.com/giild/IntroToGIT/
