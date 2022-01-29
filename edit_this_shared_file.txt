@@ -1,3 +1,9 @@
 when multiple people edit the same file, the PR will show conflicts. for the exercise, everyone should edit this file and create the pull request.
 
-some changes
+other changes
+
+changes
+
+changes
+
+more more more
