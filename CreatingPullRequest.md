@@ -60,6 +60,15 @@ This step is done by the team lead or anyone with permission to approve pull req
 1. if multiple people changed the same file, there could be merge conflicts. The pull request will show any conflicts
 2. resolve the conflicts before merging the changes
 
+## Updating your fork
+
+An important part of GIT is getting the latest code from the main. The easiest way to do this is with GIT command line.
+
+1. Open a terminal in MacOS or powershell in Windows
+2. change to folder where the repository is located
+3. run git pull https://theURLWhereTheLatestCodeLives
+4. View the changes in VSCode to verify you have the latest
+
 ## Best Practices
 
 1. alway get the latest code with git pull before pushing the changes to github
